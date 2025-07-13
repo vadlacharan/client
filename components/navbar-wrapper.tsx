@@ -6,7 +6,7 @@ export default function NavbarWrapper(){
 
     
 
-    const isAuthenticated = true
+    const isAuthenticated = false
     const isLoading = false 
     return (
         <>
